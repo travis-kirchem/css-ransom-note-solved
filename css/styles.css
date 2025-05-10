@@ -83,222 +83,641 @@ body {
 /* DID word */
 
 .didDLetter {
+  font-family: Georgia, serif;
+  color: aqua;
+  font-weight: 700;
+  font-size: 320%;
+  text-decoration: underline dotted;
+
 }
 
 .didILetter {
+  font-family: cursive;
+  color: gold;
+  font-weight: 200;
+  font-size: 420%;
+  text-decoration: underline dotted;
+  
 }
 
 .didDTwoLetter {
+  font-family: papyrus;
+  color: purple;
+  font-weight: 200;
+  font-size: 220%;
+  text-decoration: underline dotted;
 }
 
 /* THE word */
 
 .theTLetter {
+  font-family: "Gill Sans", sans-serif;
+  color: aqua;
+  font-weight: 700;
+  font-size: 70%;
+  text-decoration: underline dotted;
 }
 
 .theHLetter {
+  font-family: Georgia, serif;
+  color: red;
+  font-weight: 500;
+  font-size: 120%;
+  text-decoration: underline dotted;
 }
 
 .theELetter {
+  font-family: cursive;
+  color: greenyellow;
+  font-weight: 400;
+  font-size: 320%;
+  text-decoration: underline dotted;
 }
 
 /* FRONT-END word */
 
 .frontendFLetter {
+  font-family: "Gill Sans", sans-serif;
+  color: teal;
+  font-weight: 600;
+  font-size: 200%;
+  text-decoration: underline;
+  font-variant: small-caps;
 }
 
 .frontendRLetter {
+  font-family: cursive;
+  color: aqua;
+  font-weight: 500;
+  font-size: 120%;
+  text-decoration: underline dotted;
 }
 
 .frontendOLetter {
+  font-family: Georgia, serif;
+  color: brown;
+  font-weight: 100;
+  font-size: 400%;
+  text-decoration: underline dotted;
+  font-variant: small-caps;
 }
 
 .frontendNLetter {
+  font-family: cursive;
+  color: rebeccapurple;
+  font-weight: 500;
+  font-size: 160%;
+
 }
 
 .frontendTLetter {
+  font-family: papyrus;
+  color: red;
+  font-weight: 600;
+  font-size: 200%;
+
 }
 
 .frontendELetter {
+  font-family: "Gill Sans", sans-serif;
+  color: gray;
+  font-weight: 200;
+  font-size: 120%;
+  text-decoration: underline dotted;
 }
 
 .frontendNTwoLetter {
+  font-family: cursive;
+  color: aqua;
+  font-weight: 500;
+  font-size: 50%;
+  text-decoration: line-through;
 }
 
 .frontendDLetter {
+  font-family: papyrus;
+  color: goldenrod;
+  font-weight: 500;
+  font-size: 100%;
+  font-variant: small-caps;
+
 }
 
 /* DEVELOPER word */
 
 .developerDLetter {
+  font-family: cursive;
+  color: darkorange;
+  font-weight: 700;
+  font-size: 100%;
+  text-decoration: underline;
 }
 .developerELetter {
+  font-family: papyrus;
+  color: gold;
+  font-weight: 200;
+  font-size: 190%;
+
 }
 .developerVLetter {
+  font-family: cursive;
+  color: aqua;
+  font-weight: 500;
+  font-size: 120%;
+
 }
 .developerETwoLetter {
+  font-family: Georgia, serif;
+  color: lightsalmon;
+  font-weight: 600;
+  font-size: 150%;
+  text-decoration: underline dotted;
+  font-variant: small-caps;
 }
 .developerLLetter {
+  font-family: "Gill Sans", sans-serif;
+  color: darkcyan;
+  font-weight: 500;
+  font-size: 120%;
+  text-decoration: underline dotted;
 }
 .developerOLetter {
+  font-family: papyrus;
+  color: darkred;
+  font-weight: 500;
+  font-size: 120%;
+  text-decoration: underline dotted;
 }
 .developerPLetter {
+  font-family: lucida handwriting;
+  color: pink;
+  font-weight: 800;
 }
 .developerEThreeLetter {
+  font-family: papyrus;
+  color: aqua;
+  font-weight: 500;
+  font-size: 120%;
+
 }
 .developerRLetter {
+  font-family: cursive;
+  color: sienna;
+  font-weight: 500;
+  font-size: 120%;
+  text-decoration: overline;
 }
 
 /* TAKE word */
 
 .takeTLetter {
+  font-family: papyrus;
+  color: aqua;
+  font-weight: 500;
+  font-size: 120%;
+
 }
 .takeALetter {
+  font-family: "Gill Sans", sans-serif;
+  color: goldenrod;
+  font-weight: 500;
+  font-size: 120%;
+  text-decoration: underline;
 }
 .takeKLetter {
+  font-family: cursive;
+  color: aqua;
+  font-weight: 500;
+  font-size: 120%;
+  text-decoration: line-through;
 }
 .takeELetter {
+  font-family: lucida handwriting;
+  color: darkblue;
+  font-weight: 500;
+  font-size: 120%;
+  text-decoration: underline dotted;
+  font-variant: small-caps;
 }
 
 /* UP word */
 
 .upULetter {
+  font-family: papyrus;
+  color: darkolivegreen;
+  font-weight: 500;
+  font-size: 120%;
+  text-decoration: underline dotted;
 }
 .upPLetter {
+  font-family: "Gill Sans", sans-serif;
+  color: darkgray;
+  font-weight: 700;
+  font-size: 200%;
+  text-decoration: overline;
 }
 
 /* GARDENING word */
 
 .gardeningGLetter {
+  font-family: lucida handwriting;
+  color: lavender;
+  font-weight: 500;
+  font-size: 120%;
+  text-decoration: overline;
 }
 .gardeningALetter {
+  font-family: papyrus;
+  color: aqua;
+  font-weight: 500;
+  font-size: 120%;
+  text-decoration: underline dotted;
 }
 .gardeningRLetter {
+  font-family: lucida handwriting;
+  color: aqua;
+  font-weight: 500;
+  font-size: 120%;
+  text-decoration: underline dotted;
 }
 .gardeningDLetter {
+  font-family: cursive;
 }
 .gardeningELetter {
+  font-family: Georgia, serif;
+  color: teal;
+  font-weight: 500;
+  font-size: 180%;
+  text-decoration: line-through;
 }
 .gardeningNLetter {
+  font-family: Georgia, serif;
+  color: blueviolet;
+  font-weight: 700;
+  font-size: 300%;
+  text-decoration: line-through;
 }
 .gardeningILetter {
+  font-family: "Gill Sans", sans-serif;
+  color: seagreen;
+  font-weight: 500;
+  font-size: 120%;
+  text-decoration: underline dotted;
 }
 .gardeningNTwoLetter {
+  font-family: papyrus;
+  color: aqua;
+  font-weight: 500;
+  font-size: 120%;
+  text-decoration: line-through;
 }
 .gardeningGTwoLetter {
+  font-family: lucida handwriting;
+  color: aqua;
+  font-weight: 500;
+  font-size: 120%;
+  font-variant: small-caps;
+
 }
 
 /* BECAUSE word */
 
 .becauseBLetter {
+  font-family: papyrus;
+  color: seagreen;
+  font-weight: 500;
+  font-size: 300%;
+  text-decoration: underline dotted;
 }
 .becauseELetter {
+  font-family: lucida handwriting;
+  color: blueviolet;
+  font-weight: 500;
+  font-size: 120%;
+
 }
 .becauseCLetter {
+  font-family: papyrus;
+  color: aqua;
+  font-weight: 500;
+  font-size: 120%;
+
 }
 .becauseALetter {
+  font-family: cursive;
+  color: salmon;
+  font-weight: 500;
+  font-size: 300%;
+  text-decoration: underline dotted;
 }
 .becauseULetter {
+  font-family: Georgia, serif;
+  color: aqua;
+  font-weight: 500;
+  font-size: 120%;
+  text-decoration: underline dotted;
 }
 .becauseSLetter {
+  font-family: "Gill Sans", sans-serif;
+  color: darkblue;
+  font-weight: 500;
+  font-size: 300%;
+  text-decoration: underline dotted;
 }
 .becauseETwoLetter {
+  font-family: papyrus;
+  color: darkcyan;
+  font-weight: 500;
+  font-size: 120%;
+
 }
 
 /* THEY word */
 
 .theyTLetter {
+  font-family: "Gill Sans", sans-serif;
+  color: seagreen;
+  font-weight: 500;
+  font-size: 300%;
+  text-decoration: underline;
+  font-variant: small-caps;
 }
 .theyHLetter {
+  font-family: cursive;
+  color: aqua;
+  font-weight: 500;
+  font-size: 120%;
+
 }
 .theyELetter {
+  font-family: Georgia, serif;
+  color: tan;
+  font-weight: 500;
+  font-size: 300%;
+
 }
 .theyYLetter {
+  font-family: lucida handwriting;
+  color: aqua;
+  font-weight: 500;
+  font-size: 120%;
+
 }
 
 /* WANTED word */
 
 .wantedWLetter {
+  font-family: papyrus;
+  color: aqua;
+  font-weight: 500;
+  font-size: 300%;
+  font-variant: small-caps;
+
 }
 .wantedALetter {
+  font-family: cursive;
+  color: darkgoldenrod;
+  font-weight: 500;
+  font-size: 120%;
+  text-decoration: underline;
 }
 .wantedNLetter {
+  font-family: lucida handwriting;
+  color: aqua;
+  font-weight: 500;
+  font-size: 300%;
+
 }
 .wantedTLetter {
+  font-family: "Gill Sans", sans-serif;
+  color: aqua;
+  font-weight: 500;
+  font-size: 120%;
+  text-decoration: underline dotted;
 }
 .wantedELetter {
+  font-family: Georgia, serif;
+  color: slateblue;
+  font-weight: 500;
+  font-size: 300%;
+
 }
 .wantedDLetter {
+  font-family: papyrus;
+  color: aqua;
+  font-weight: 500;
+  font-size: 300%;
+
 }
 
 /* TO word */
 
 .toTLetter {
+  font-family: papyrus;
+  color: aqua;
+  font-weight: 500;
+  font-size: 120%;
+
 }
 .toOLetter {
+  font-family: cursive;
+  color: aqua;
+  font-weight: 500;
+  font-size: 120%;
+
 }
 
 /* IMPROVE word */
 
 .improveILetter {
+  font-family: papyrus;
+  color: aqua;
+  font-weight: 500;
+  font-size: 300%;
+  text-decoration: underline dotted;
+  font-variant: small-caps;
 }
 .improveMLetter {
+  font-family: lucida handwriting;
+  color: blueviolet;
+  font-weight: 500;
+  font-size: 40%;
+  text-decoration: line-through;
 }
 .improvePLetter {
+  font-family: cursive;
+  color: aqua;
+  font-weight: 500;
+  font-size: 300%;
+
 }
 .improveRLetter {
+  font-family: Georgia, serif;
+  color: aqua;
+  font-weight: 500;
+  font-size: 120%;
+
 }
 .improveOLetter {
+  font-family: "Gill Sans", sans-serif;
+  color: seagreen;
+  font-weight: 500;
+  font-size: 120%;
+  font-variant: small-caps;
+
 }
 .improveVLetter {
+  font-family: papyrus;
+  color: salmon;
+  font-weight: 500;
+  font-size: 300%;
+  text-decoration: underline dotted;
 }
 .improveELetter {
+  font-family: cursive;
+  color: aqua;
+  font-weight: 500;
+  font-size: 120%;
+
 }
 
 /* THEIR word */
 
 .theirTLetter {
+  font-family: papyrus;
+  color: darkcyan;
+  font-weight: 500;
+  font-size: 300%;
+  font-variant: small-caps;
+
 }
 .theirHLetter {
+  font-family: cursive;
+  color: darkorange;
+  font-weight: 500;
+  font-size: 120%;
+
 }
 .theirELetter {
+  font-family: Georgia, serif;
+  color: aqua;
+  font-weight: 500;
+  font-size: 120%;
+  text-decoration: underline;
 }
 .theirILetter {
+  font-family: papyrus;
+  color: aqua;
+  font-weight: 500;
+  font-size: 300%;
+
 }
 .theirRLetter {
+  font-family: "Gill Sans", sans-serif;
+  color: darkcyan;
+  font-weight: 500;
+  font-size: 120%;
+  text-decoration: underline;
+  font-variant: small-caps;
 }
 
 /* ROOT word */
 
 .rootRLetter {
+  font-family: "Gill Sans", sans-serif;
+  color: darkblue;
+  font-weight: 500;
+  font-size: 120%;
+  text-decoration: underline dotted;
 }
 .rootOLetter {
+  font-family: Georgia, serif;
+  color: salmon;
+  font-weight: 500;
+  font-size: 120%;
+  font-variant: small-caps;
+
 }
 .rootOTwoLetter {
+  font-family: papyrus;
+  color: aqua;
+  font-weight: 500;
+  font-size: 120%;
+
 }
 .rootTLetter {
+  font-family: cursive;
+  color: slategrey;
+  font-weight: 500;
+  font-size: 120%;
+
 }
 
 /* SKILLS word */
 
 .skillsSLetter {
+  font-family: papyrus;
+  color: aqua;
+  font-weight: 500;
+  font-size: 190%;
+  
 }
 .skillsKLetter {
+  font-family: Georgia, serif;
+  color: seagreen;
+  font-weight: 300;
+  font-size: 90%;
+  text-decoration: underline dotted;
 }
 .skillsILetter {
+  font-family: cursive;
+  color: seagreen;
+  font-weight: 500;
+  font-size: 120%;
+  
 }
 .skillsLLetter {
+  font-family: lucida handwriting;
+  color: aqua;
+  font-weight: 400;
+  font-size: 150%;
+  
 }
 .skillsLTwoLetter {
+  font-family: "Gill Sans", sans-serif;
+  color: darkblue;
+  font-weight: 700;
+  font-size: 200%;
+  text-decoration: underline dashed;
 }
 .skillsSTwoLetter {
+  font-family: papyrus;
+  color: darkgoldenrod;
+  font-weight: 500;
+  font-size: 100%;
+  
 }
 
 /* SYMBOLS */
 
 .hyphen {
+  font-family: Georgia, serif;
+  color: saddlebrown;
+  font-weight: 700;
+  font-size: 300%;
+  
 }
 .exclamation-mark {
+  font-family: "Gill Sans", sans-serif;
+  color: aqua;
+  font-weight: 500;
+  font-size: 120%;
+  
 }
 .question-mark {
+  font-family: cursive;
+  color: teal;
+  font-weight: 200;
+  font-size: 200%;
+  text-decoration: underline;
 }
